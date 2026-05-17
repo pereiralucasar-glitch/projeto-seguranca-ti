@@ -16,5 +16,7 @@ Faço a limpeza da bancada utilizando álcool 70%, pano limpo e pincel antiestá
 ## 4. Kit de limpeza
 Imagem do kit de limpeza utilizado na manutenção.
 
+![foto do kit(img3.png)
+
 ## 5. Por que não comer na bancada
 Porque alimentos podem contaminar os equipamentos, atrair sujeira e causar contato com resíduos químicos presentes na bancada.
